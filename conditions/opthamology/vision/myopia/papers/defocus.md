@@ -32,12 +32,12 @@
 * [Reading and Myopia: Contrast Polarity Matters](https://www.nature.com/articles/s41598-018-28904-x/)
 * [Effects of reading with different letter size and contrast polarity on short term changes of axial length](https://iovs.arvojournals.org/article.aspx?articleid=2774698)
 * [Transient Eye Shortening During Reading Text With Inverted Contrast: Effects of Refractive Error and Letter Size](https://pubmed.ncbi.nlm.nih.gov/35438720/)
+* [Why might reading make myopic?](https://www.innovations-report.com/health-and-medicine/why-might-reading-make-myopic/)
 
 ## Atropine
 * [Mechanism of Myopic Defocus or Atropine for Myopia Control: Different or Similar Ways?](https://www.karger.com/Article/Abstract/525744)
 * [Additive effect of atropine eye drops and short-term retinal defocus on choroidal thickness in children with myopia](https://www.nature.com/articles/s41598-020-75342-9)
 * [Short-Term Effect of Low-Dose Atropine and Hyperopic Defocus on Choroidal Thickness and Axial Length in Young Myopic Adults](https://www.hindawi.com/journals/joph/2019/4782536/)
-* [Why might reading make myopic?](https://www.innovations-report.com/health-and-medicine/why-might-reading-make-myopic/)
 
 ## AR
 * [Biometric and refractive changes following the monocular application of peripheral myopic defocus using a novel augmented-reality optical system in adults](https://pubmed.ncbi.nlm.nih.gov/35831331/)
