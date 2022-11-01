@@ -10,18 +10,18 @@
 * [Human optical axial length and defocus](https://pubmed.ncbi.nlm.nih.gov/20592235/)
 * [Monocular myopic defocus and daily changes in axial length and choroidal thickness of human eyes](https://www.sciencedirect.com/science/article/abs/pii/S0014483512002473)
 * [Axial length changes induced by positive defocus correlate with changes in choroidal blood flow](https://iovs.arvojournals.org/article.aspx?articleid=2782071)
-* [Axial Eye Growth and Refractive Error Development Can Be Modified by Exposing the Peripheral Retina to Relative Myopic or Hyperopic Defocus](https://iovs.arvojournals.org/article.aspx?articleid=2212598)
 * [Optical Defocus Rapidly Changes Choroidal Thickness in Schoolchildren](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161535)
 * [The time course of the onset and recovery of axial length changes in response to imposed defocus](https://www.nature.com/articles/s41598-020-65151-5)
 * [Short Interruptions of Imposed Hyperopic Defocus Earlier in Treatment are More Effective at Preventing Myopia Development](https://www.nature.com/articles/s41598-019-48009-3#Sec14)
 * [Evaluation of an Optical Defocus Treatment for Myopia Progression Among Schoolchildren During the COVID-19 Pandemic](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2788118)
 * [Eyes in Various Species Can Shorten to Compensate for Myopic Defocus](https://iovs.arvojournals.org/article.aspx?articleid=2189093)
 
+### Peripheral Vision / Defocus
+* [Axial Eye Growth and Refractive Error Development Can Be Modified by Exposing the Peripheral Retina to Relative Myopic or Hyperopic Defocus](https://iovs.arvojournals.org/article.aspx?articleid=2212598)
+* [Influence of Optical Defocus on Peripheral Vision](https://iovs.arvojournals.org/article.aspx?articleid=2126660)
+
 ### Astigmatic Defocus
 * [Astigmatic Defocus Leads to Short-Term Changes in Human Choroidal Thickness](https://iovs.arvojournals.org/article.aspx?articleid=2770544)
-
-## Peripheral Vision
-* [Influence of Optical Defocus on Peripheral Vision](https://iovs.arvojournals.org/article.aspx?articleid=2126660)
 
 ## Diurnal Rhythm
 * [Influence of the time of day on axial length and choroidal thickness changes to hyperopic and myopic defocus in human eyes](https://pubmed.ncbi.nlm.nih.gov/30926510/)
