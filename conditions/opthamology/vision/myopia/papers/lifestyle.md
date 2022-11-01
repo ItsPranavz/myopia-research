@@ -3,6 +3,7 @@
 ## Interventions
 * [Myopia: Mechanisms and Strategies to Slow Down Its Progression](https://www.hindawi.com/journals/joph/2022/1004977/)
 * [Myopia Control](https://journals.lww.com/claojournal/Abstract/2016/01000/Myopia_Control__A_Review.2.aspx)
+* [Myopia Control 2020: Where are we and where are we heading?](https://onlinelibrary.wiley.com/doi/abs/10.1111/opo.12686?casa_token=eg0THzaZfFcAAAAA:WgxKrGomu8GpY9U3A-mkcxckdkkLVUo8zSgB_SWX6hC6KzIgJnGQRN_WVnYNehoPjcB054FvHHDTuCUwdA)
 
 ### Outdoor Time
 * [Increased Time Outdoors Is Followed by Reversal of the Long-Term Trend to Reduced Visual Acuity in Taiwan Primary School Students](https://www.sciencedirect.com/science/article/pii/S0161642020301391)
