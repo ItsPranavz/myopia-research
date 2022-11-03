@@ -9,8 +9,22 @@
 ### Outdoor Time
 * [Increased Time Outdoors Is Followed by Reversal of the Long-Term Trend to Reduced Visual Acuity in Taiwan Primary School Students](https://www.sciencedirect.com/science/article/pii/S0161642020301391)
 
-### Red Light
+### Light
+* [Light Signaling and Myopia Development: A Review](https://link.springer.com/article/10.1007/s40123-022-00490-2)
+* [Progress and Control of Myopia by Light Environments](https://journals.lww.com/claojournal/Abstract/2018/09000/Progress_and_Control_of_Myopia_by_Light.1.aspx)
+* [Does sunlight (bright lights) explain the protective effects of outdoor activity against myopia?](https://onlinelibrary.wiley.com/doi/full/10.1111/opo.12051?casa_token=jJDj9Gn6IyYAAAAA%3AeJUtsoSJiw8alE7dcYigCSXsIhiM8yjG3wiwyiCfLf4Aux3GFbCzRUVnJE5iiu3SDyFIP7-q94ytrRT7lA)
+* [Short-Term Exposure to Blue Light Shows an Inhibitory Effect on Axial Elongation in Human Eyes Independent of Defocus](https://iovs.arvojournals.org/article.aspx?articleid=2778185)
+
+#### Red Light
+* [Red light irradiation as an intervention for myopia](https://journals.lww.com/ijo/Fulltext/2022/09000/Red_light_irradiation_as_an_intervention_for.8.aspx?context=LatestArticles)
 * [Effect of Repeated Low-Level Red-Light Therapy for Myopia Control in Children: A Multicenter Randomized Controlled Trial](https://www.sciencedirect.com/science/article/pii/S0161642021009167)
+* [Efficacy of Repeated Low-Level Red-Light Therapy for Controlling Myopia Progression in Children](https://www.practiceupdate.com/content/efficacy-of-repeated-low-level-red-light-therapy-for-controlling-myopia-progression-in-children/141625/37/5/1)
+* [Myopia Control Effect of Repeated Low-Level Red-Light Therapy in Chinese Children: A Randomized, Double-Blind, Controlled Clinical Trial](https://www.sciencedirect.com/science/article/pii/S0161642022006698)
+* [Efficacy Comparison of Repeated Low-Level Red Light and Low-Dose Atropine for Myopia Control: A Randomized Controlled Trial](https://tvst.arvojournals.org/article.aspx?articleid=2783786)
+* [Investigation of the Efficacy and Safety of 650 nm Low-Level Red Light for Myopia Control in Children: A Randomized Controlled Trial](https://link.springer.com/article/10.1007/s40123-022-00585-w)
+* [Low-intensity red-light therapy in slowing myopic progression and the rebound effect after its cessation in Chinese children: a randomized controlled trial](https://link.springer.com/article/10.1007/s00417-022-05794-4)
+* [Longitudinal changes and predictive value of choroidal thickness for myopia control following repeated low-level red-light therapy](https://www.sciencedirect.com/science/article/pii/S0161642022007801)
+* [Sustained and rebound effect of repeated low-level red-light therapy on myopia control: A 2-year post-trial follow-up study](https://onlinelibrary.wiley.com/doi/full/10.1111/ceo.14149?casa_token=_zasjMI7BYsAAAAA%3AgklIFq5HXE2wO3Qt3kKYlK-0gEmVvUSrI-x4TE5fqRbFo4CPX0V-2sild6QpPut1zqnKRAH3BdCOCGmEkg)
 
 ## Near Work Induced Transient Myopia (NITM)
 * [Advances in near work-induced transient myopia](https://pubmed.ncbi.nlm.nih.gov/22943873/)
