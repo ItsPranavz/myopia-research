@@ -9,6 +9,9 @@
 ### Outdoor Time
 * [Increased Time Outdoors Is Followed by Reversal of the Long-Term Trend to Reduced Visual Acuity in Taiwan Primary School Students](https://www.sciencedirect.com/science/article/pii/S0161642020301391)
 
+### Red Light
+* [Effect of Repeated Low-Level Red-Light Therapy for Myopia Control in Children: A Multicenter Randomized Controlled Trial](https://www.sciencedirect.com/science/article/pii/S0161642021009167)
+
 ## Near Work Induced Transient Myopia (NITM)
 * [Advances in near work-induced transient myopia](https://pubmed.ncbi.nlm.nih.gov/22943873/)
 * [Near Work Related Parameters and Myopia in Chinese Children: the Anyang Childhood Eye Study](https://pubmed.ncbi.nlm.nih.gov/26244865/)
