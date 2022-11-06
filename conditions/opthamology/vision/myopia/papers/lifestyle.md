@@ -8,6 +8,7 @@
 * [Commentary: Newer modalities to prevent myopia progression](https://journals.lww.com/ijo/Fulltext/2022/09000/Commentary__Newer_modalities_to_prevent_myopia.9.aspx)
 
 ### Outdoor Time
+* [Time spent outdoors as an intervention for myopia prevention and control in children: an overview of systematic reviews](https://onlinelibrary.wiley.com/doi/full/10.1111/opo.12945)
 * [Increased Time Outdoors Is Followed by Reversal of the Long-Term Trend to Reduced Visual Acuity in Taiwan Primary School Students](https://www.sciencedirect.com/science/article/pii/S0161642020301391)
 
 ### Light
@@ -15,6 +16,8 @@
 * [Progress and Control of Myopia by Light Environments](https://journals.lww.com/claojournal/Abstract/2018/09000/Progress_and_Control_of_Myopia_by_Light.1.aspx)
 * [Does sunlight (bright lights) explain the protective effects of outdoor activity against myopia?](https://onlinelibrary.wiley.com/doi/full/10.1111/opo.12051?casa_token=jJDj9Gn6IyYAAAAA%3AeJUtsoSJiw8alE7dcYigCSXsIhiM8yjG3wiwyiCfLf4Aux3GFbCzRUVnJE5iiu3SDyFIP7-q94ytrRT7lA)
 * [Short-Term Exposure to Blue Light Shows an Inhibitory Effect on Axial Elongation in Human Eyes Independent of Defocus](https://iovs.arvojournals.org/article.aspx?articleid=2778185)
+* [Effects of the spectral energy distribution of ambient lighting on L-, M- and S-cone abundancies and emmetropization in the chicken](https://iovs.arvojournals.org/article.aspx?articleid=2779872)
+* [Parasympathetic innervation of emmetropization](https://www.sciencedirect.com/science/article/abs/pii/S0014483522000458?via%3Dihub)
 
 #### Red Light
 * [Red light irradiation as an intervention for myopia](https://journals.lww.com/ijo/Fulltext/2022/09000/Red_light_irradiation_as_an_intervention_for.8.aspx?context=LatestArticles)

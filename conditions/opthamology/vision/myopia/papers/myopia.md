@@ -5,3 +5,15 @@
 ## Pseudomyopia
 * [Pseudomyopia: A Review](https://www.mdpi.com/2411-5150/6/1/17)
 
+## Visual Function
+
+### Peripheral Vision
+
+#### Temporal Contrast
+* [Do myopes have deficits in peripheral flicker sensitivity?](https://www.sciencedirect.com/science/article/pii/S1888429621000042)
+
+## Properties
+
+### Inflammation
+* [Emmetropization is Associated with a Modified Inflammatory Response in the Eye](https://iovs.arvojournals.org/article.aspx?articleid=2783401)
+

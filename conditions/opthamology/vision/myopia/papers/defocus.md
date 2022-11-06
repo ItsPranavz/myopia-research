@@ -15,10 +15,12 @@
 * [Short Interruptions of Imposed Hyperopic Defocus Earlier in Treatment are More Effective at Preventing Myopia Development](https://www.nature.com/articles/s41598-019-48009-3#Sec14)
 * [Evaluation of an Optical Defocus Treatment for Myopia Progression Among Schoolchildren During the COVID-19 Pandemic](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2788118)
 * [Eyes in Various Species Can Shorten to Compensate for Myopic Defocus](https://iovs.arvojournals.org/article.aspx?articleid=2189093)
+* [Simulated myopic defocus counteracts a myopiagenic environment in juvenile tree shrews producing hyperopia](https://iovs.arvojournals.org/article.aspx?articleid=2782146)
 
 ### Peripheral Vision / Defocus
 * [Axial Eye Growth and Refractive Error Development Can Be Modified by Exposing the Peripheral Retina to Relative Myopic or Hyperopic Defocus](https://iovs.arvojournals.org/article.aspx?articleid=2212598)
 * [Influence of Optical Defocus on Peripheral Vision](https://iovs.arvojournals.org/article.aspx?articleid=2126660)
+* [The anisotropy of retinal blur in the human periphery](https://iovs.arvojournals.org/article.aspx?articleid=2779649)
 
 ### Astigmatic Defocus
 * [Astigmatic Defocus Leads to Short-Term Changes in Human Choroidal Thickness](https://iovs.arvojournals.org/article.aspx?articleid=2770544)
