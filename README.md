@@ -1,5 +1,5 @@
 # Med Bio Papers
-Links to assorted health / medicine / biology papers for specific conditions, diseases, and lifestyle interventions.
+biology / medicine / health papers organized in markdown files
 
 I'm mainly interested in neurology, opthamology, endocrinology, and general lifestyle interventions.
 
