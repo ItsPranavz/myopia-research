@@ -21,3 +21,6 @@
 * [Immune Dysregulation and Chronic Stress among Older Adults: A Review](https://www.karger.com/Article/Abstract/156468)
 * [Chronic stress, glucocorticoid receptor resistance, inflammation, and disease risk](https://www.pnas.org/doi/abs/10.1073/pnas.1118355109)
 
+## Monitoring
+*[Portable and wearable real-time stress monitoring: A critical review - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2666053921000126#fig0007)
+
