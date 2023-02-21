@@ -1,5 +1,4 @@
 # Myopia Rezearch
-___
 * [Myopia](https://www.nature.com/articles/s41572-020-00231-4)
 * [Myopia](https://www.sciencedirect.com/science/article/abs/pii/S0140673612602724)
 
