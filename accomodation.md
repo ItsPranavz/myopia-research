@@ -1,4 +1,4 @@
-# Accomodation
+# Accomodation Research
 * [The role of accommodative function in myopic development: A review](https://www.tandfonline.com/doi/abs/10.1080/08820538.2021.2006724)
 
 ## Accomodative Lag
