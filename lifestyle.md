@@ -1,4 +1,4 @@
-# Lifestyle
+# Lifestyle Research
 
 ## Interventions
 * [Myopia: Mechanisms and Strategies to Slow Down Its Progression](https://www.hindawi.com/journals/joph/2022/1004977/)
