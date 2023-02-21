@@ -1,4 +1,4 @@
-# Defocus
+# Defocus Research
 
 ## Detection
 * [Can the retina alone detect the sign of defocus?](https://onlinelibrary.wiley.com/doi/full/10.1111/opo.12058?casa_token=oJ6_rF4rE2AAAAAA%3AF5upqGSJe0blNjliE4EDCJnIPP98Vzm9_l_UL76K64SlhhQYez-KkaW2WkhQ9C7sg9BWvIv_-MIWsTNzKg)
